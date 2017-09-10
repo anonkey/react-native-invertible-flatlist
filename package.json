@@ -2,7 +2,7 @@
   "name": "react-native-invertible-flatlist",
   "version": "1.2.1",
   "description": "A FlatList that can be flipped.",
-  "main": "dist/index",
+  "main": "dist/",
   "scripts": {
     "build": "npm run clean && cross-env BABEL_ENV=commonjs babel src --out-dir dist",
     "clean": "rm -rf dist"
